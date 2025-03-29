@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/izhar850.github.io/TikDis/static/css/main.70833d25.css",
+    "main.js": "/izhar850.github.io/TikDis/static/js/main.d36b7695.js",
+    "static/js/453.ff475347.chunk.js": "/izhar850.github.io/TikDis/static/js/453.ff475347.chunk.js",
+    "index.html": "/izhar850.github.io/TikDis/index.html",
+    "main.70833d25.css.map": "/izhar850.github.io/TikDis/static/css/main.70833d25.css.map",
+    "main.d36b7695.js.map": "/izhar850.github.io/TikDis/static/js/main.d36b7695.js.map",
+    "453.ff475347.chunk.js.map": "/izhar850.github.io/TikDis/static/js/453.ff475347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70833d25.css",
+    "static/js/main.d36b7695.js"
+  ]
+}
