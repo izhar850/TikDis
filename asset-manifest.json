@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/izhar850.github.io/TikDis/static/css/main.70833d25.css",
-    "main.js": "/izhar850.github.io/TikDis/static/js/main.d36b7695.js",
-    "static/js/453.ff475347.chunk.js": "/izhar850.github.io/TikDis/static/js/453.ff475347.chunk.js",
-    "index.html": "/izhar850.github.io/TikDis/index.html",
-    "main.70833d25.css.map": "/izhar850.github.io/TikDis/static/css/main.70833d25.css.map",
-    "main.d36b7695.js.map": "/izhar850.github.io/TikDis/static/js/main.d36b7695.js.map",
-    "453.ff475347.chunk.js.map": "/izhar850.github.io/TikDis/static/js/453.ff475347.chunk.js.map"
+    "main.css": "/izhar850.github.io/Tikkk/static/css/main.70833d25.css",
+    "main.js": "/izhar850.github.io/Tikkk/static/js/main.ab2d1911.js",
+    "static/js/453.13f02660.chunk.js": "/izhar850.github.io/Tikkk/static/js/453.13f02660.chunk.js",
+    "index.html": "/izhar850.github.io/Tikkk/index.html",
+    "main.70833d25.css.map": "/izhar850.github.io/Tikkk/static/css/main.70833d25.css.map",
+    "main.ab2d1911.js.map": "/izhar850.github.io/Tikkk/static/js/main.ab2d1911.js.map",
+    "453.13f02660.chunk.js.map": "/izhar850.github.io/Tikkk/static/js/453.13f02660.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70833d25.css",
-    "static/js/main.d36b7695.js"
+    "static/js/main.ab2d1911.js"
   ]
 }
